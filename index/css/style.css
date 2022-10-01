@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0%;
+}
+#azul{
+
+}
+#oscuro{
+    animation-delay:0.5s;
+
+}
+#azuloscuro{
+    animation-delay:1s;
+
+}
+#blanco{
+    animation-delay:1.5s;
+
+}
+#apellido{
+    animation-delay:2s;
+}
+#nombre{
+    animation-delay:0s;
+}
+#productora{
+    animation-delay:1.5s ;
+}
